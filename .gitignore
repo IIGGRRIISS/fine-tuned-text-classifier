@@ -1,0 +1,13 @@
+# Model artifacts (hosted on Hugging Face Hub instead)
+fine_tuned_distilbert_imdb/
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Notebooks
+.ipynb_checkpoints/
